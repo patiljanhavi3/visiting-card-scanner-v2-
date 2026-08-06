@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663814908880",
+    "project_id": "visitingcardscanner-b0511",
+    "storage_bucket": "visitingcardscanner-b0511.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663814908880:android:5c2258cf71062e06ab27d5",
+        "android_client_info": {
+          "package_name": "com.example.visiting_card_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdTRL3cCCXc_fUz-w0GcDfZWXuK-9yhR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
